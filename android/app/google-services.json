@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383853462590",
+    "firebase_url": "https://edoctor-b30fc.firebaseio.com",
+    "project_id": "edoctor-b30fc",
+    "storage_bucket": "edoctor-b30fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383853462590:android:f23d25ded8b5aaffd13d6f",
+        "android_client_info": {
+          "package_name": "com.dextar.e_doctor_last"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383853462590-k68fbkfib34k35eegpmnqm211fm542o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHcGNd3-A-0dskZxpXMWB0B1GyDvDLHd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383853462590-k68fbkfib34k35eegpmnqm211fm542o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
